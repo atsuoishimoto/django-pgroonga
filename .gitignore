@@ -1,0 +1,17 @@
+userfiles
+*.pyc
+*~
+*.swp
+*.map
+~*
+.DS_Store
+*.so
+*.o
+*.egg-info
+\#*\#
+.idea
+build
+dist
+node_modules
+build.js
+static
